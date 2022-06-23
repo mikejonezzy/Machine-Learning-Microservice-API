@@ -9,4 +9,4 @@ docker build -t prediciton-app .
 docker images
 
 # Run flask app
-docker run -it --rm --name prediciton-app
+docker run -it --rm -p 8000:80 prediciton-app
