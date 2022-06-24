@@ -1,0 +1,6 @@
+$ ./run_kubernetes.sh
+Error from server (AlreadyExists): pods "prediction-app" already exists
+NAME             READY   STATUS    RESTARTS   AGE
+prediction-app   1/1     Running   0          96s
+Forwarding from 0.0.0.0:8000 -> 80
+Handling connection for 8000
