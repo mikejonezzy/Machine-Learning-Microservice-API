@@ -1,4 +1,5 @@
 <include a CircleCI status badge, here>
+[![CircleCI](https://circleci.com/gh/mikejonezzy/Machine-Learning-Microservice-API.svg?style=svg)](https://app.circleci.com/pipelines/github/mikejonezzy/Machine-Learning-Microservice-API?filter=all)
 
 ## Project Overview
 
